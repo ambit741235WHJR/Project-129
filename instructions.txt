@@ -1,0 +1,7 @@
+Instructions to run the file
+1. Store 2 CSV files inside CSVs folder named 'Brightest Stars.csv' and 'Brightest Dwarf Stars.csv'
+2. Run the file named run.bat by double-clicking on it
+3. After running is completed, open 'Final Merged Data.csv' inside CSVs folder
+4. Now you will see that, your data will be merged.
+
+ENJOY!!!
